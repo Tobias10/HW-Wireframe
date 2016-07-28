@@ -1,0 +1,60 @@
+body {
+	background: #777;
+	content: #ebebeb;
+	font-family: 'arial', 'helvetica', helvetica, sans-serif;
+	font-size: 18px;
+	padding: 0px 100px 25px 100px;
+	width: 960px;
+
+}
+.first{
+	text-align: center;
+	background: white;
+	padding: 25px;
+	margin: 10px;
+
+}
+
+#section	{
+	text-align: center;
+	background: white;
+	padding: 25px 10px 200px 10px;
+	margin: 10px;
+	width: 495px;
+
+
+}
+
+#aside {
+	text-align: center;
+	background: white;
+	padding: 25px 5px 200px 1px;
+	margin: 10px;
+	width: 495px;
+	float: right;
+
+}
+
+#headers {
+	text-align: center;
+	background: white;
+	padding: 10px;
+	margin: 10px;
+
+
+	
+}
+#paragraph {
+	background: white;
+	text-align: center;
+	padding: 
+
+}
+#footer {
+	background: white;
+	text-align: center;
+	padding: 25px;
+	margin: 10px;
+	clear: both;
+}
+
